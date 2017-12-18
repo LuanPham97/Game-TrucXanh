@@ -1,0 +1,11 @@
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\bin\Debug\TrucXanh.exe.config
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\bin\Debug\TrucXanh.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\bin\Debug\TrucXanh.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.csprojResolveAssemblyReference.cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.frmDangNhap.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.Properties.Resources.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.csproj.GenerateResource.Cache
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.exe
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.pdb
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.frmDangKy.resources
+D:\GOC HOC TAP\3rd YEAR SEMESTER 1\Lap Trinh Ung Dung Quan Ly 1\TrucXanh\TrucXanh\obj\Debug\TrucXanh.frmTrucXanh.resources
